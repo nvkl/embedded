@@ -1,3 +1,9 @@
+/*
+ * Tavoite: täydet pisteet
+ * Tällä palautuksella tehtynä 1p kuten ensimmäisessä tehtävässä
+ * Loput pisteet yritän tehdä myöhemmin
+ */
+
 #include <zephyr/kernel.h>
 #include <zephyr/sys/printk.h>
 #include <zephyr/device.h>
