@@ -1,6 +1,6 @@
 /*
  * Tavoite: täydet pisteet
- * Tällä palautuksella tehtynä 1p kuten ensimmäisessä tehtävässä
+ * Tällä palautuksella tehtynä eka piste
  * Loput pisteet yritän tehdä myöhemmin
  */
 
