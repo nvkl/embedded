@@ -1,3 +1,7 @@
+/*
+ * Tässä tehtynä vaan eka piste, loput teen myöhemmin
+ */
+
 #include <zephyr/kernel.h>
 #include <zephyr/sys/printk.h>
 #include <zephyr/device.h>
