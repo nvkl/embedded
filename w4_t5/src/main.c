@@ -1,3 +1,8 @@
+/*
+ * Tavoitteena täydet pisteet, tässä tehtynä ensimmäinen
+ * Käytössä pelkästään punainen LED
+ */
+
 #include <zephyr/kernel.h>
 #include <zephyr/sys/printk.h>
 #include <zephyr/device.h>
